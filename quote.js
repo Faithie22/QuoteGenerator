@@ -6,7 +6,9 @@ function myFunction() {
 		"Ghandhi": "We must be the change we want to see.",
         "Faithie": "Always be yourself, because life is too short to be someone else.",
         "Faithspeaks": "Perphaps we should learn to love ourselves more fiercely.",
-        "Faith Onoshirie": "If you feel good about yourself, feel confident about yourself and carry yourself with pride, that is beauty."
+        "Faith Onoshirie": "If you feel good about yourself, feel confident about yourself and carry yourself with pride, that is beauty.",
+		"Frank Sinatu": "The best revenge is massive success.",
+		"Nelson Mandela": "A winner is a dreamer who never gives up."
 	};
 	let speakers = Object.keys(quotes);
 	let aSpeaker = speakers[Math.floor(Math.random()* speakers.length)];
